@@ -1,0 +1,11 @@
+.flex {
+    display: flex;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.space-between {
+    justify-content: space-between;
+}
